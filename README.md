@@ -1,3 +1,6 @@
+This is a Computer Vision Course's homework.
+You can find results in report.pdf
+
 To run the code
 
 write to cmd python SimilarityCheck.py 
