@@ -18,32 +18,32 @@ fourth one is -> rgb or hsv and if no argument is given than rgb color space/ if
 the other ones are -> bind numbers: int and  if write 4 8   code will do for both 4 bind number and 8 bind number
 
 
---example usage--
-2x2 grid
-query all
-3D histogram
-hsv 
-8 and 64 binds
+--example usage-- \
+2x2 grid \
+query all \
+3D histogram \
+hsv \
+8 and 64 binds \
 
-python /.SimilarityCheck.py 2 0 0 --hsvOn 8 64
-
-
---example usage 2--
-no grid which means 1x1 grid
-query 1
-per channel
-rgb
-32 and 2 binds
-
-python /.SimilarityCheck.py 1 1 1 32 2
+python /.SimilarityCheck.py 2 0 0 --hsvOn 8 64 \
 
 
---example usage 3--
-6x6 grid
-all queris
-per channel
-hsv
-64 bind
+--example usage 2-- \
+no grid which means 1x1 grid \
+query 1 \
+per channel \
+rgb \
+32 and 2 binds \
+
+python /.SimilarityCheck.py 1 1 1 32 2  \
+
+
+--example usage 3-- \
+6x6 grid \
+all queris \
+per channel \
+hsv \
+64 bind \
 
 python /.SimilarityCheck.py 6 0 1 --hsvOn 64
 
