@@ -20,30 +20,30 @@ the other ones are -> bind numbers: int and  if write 4 8   code will do for bot
 
 --example usage-- <br />
 2x2 grid <br />
-query all 
-3D histogram 
-hsv 
-8 and 64 binds 
+query all <br />
+3D histogram <br />
+hsv <br />
+8 and 64 binds <br />
 
 python /.SimilarityCheck.py 2 0 0 --hsvOn 8 64 
 
 
 --example usage 2-- <br />
 no grid which means 1x1 grid <br />
-query 1 
-per channel 
-rgb 
-32 and 2 binds 
+query 1 <br />
+per channel <br />
+rgb <br />
+32 and 2 binds <br />
 
-python /.SimilarityCheck.py 1 1 1 32 2  
+python /.SimilarityCheck.py 1 1 1 32 2  <br />
 
 
 --example usage 3-- <br />
 6x6 grid <br />
-all queris 
-per channel 
-hsv 
-64 bind 
+all queris <br />
+per channel <br />
+hsv <br />
+64 bind <br />
 
 python /.SimilarityCheck.py 6 0 1 --hsvOn 64
 
