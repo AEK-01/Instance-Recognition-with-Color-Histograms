@@ -18,8 +18,8 @@ fourth one is -> rgb or hsv and if no argument is given than rgb color space/ if
 the other ones are -> bind numbers: int and  if write 4 8   code will do for both 4 bind number and 8 bind number
 
 
---example usage-- \
-2x2 grid \
+--example usage-- <br />
+2x2 grid <br />
 query all \
 3D histogram \
 hsv \
